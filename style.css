@@ -1,0 +1,47 @@
+.wrapper{
+    background-color: rgb(67, 72, 72);
+    text-align: center;
+    margin-top: 65px;
+    margin-left: 380px;
+    border: 2px solid black;
+    width: 380px;
+    height: 510px;
+    border-radius: 10px;
+}
+
+#create_display{
+    margin: 30px 10px;
+    background-color: whitesmoke;
+    border: 2px solid dimgrey;
+    border-radius: 10px;
+    width: 355px;
+    height: 80px;
+    font-size: xx-large;
+    font-weight: 700;
+    text-align: end;
+}
+
+
+#create_button1{
+    border-radius: 300px;
+}
+
+#buttonsgroup{
+    margin: 38px 11px;
+    border: 2px solid dimgrey;
+    border-radius: 10px;
+    width: 355px;
+    height:337px;
+}
+
+button{
+    padding: 5px;
+    border-radius: 20px;
+    border: 2px solid rgb(12, 12, 12);
+    width:60px;
+    height:60px;
+    margin: 12px;
+    font-size: larger;
+    background-color: rgb(18, 17, 17);
+    color:rgb(255, 255, 255)
+}
